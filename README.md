@@ -1,2 +1,1 @@
-# dot-game
-A websocket dot game to practice networking and logistic
+ha ha this not thing
